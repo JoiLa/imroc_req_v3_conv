@@ -1,4 +1,4 @@
-module github.com/JoiLa/imroc-req-v3-conv
+module github.com/JoiLa/imroc_req_v3_conv
 
 go 1.17
 
